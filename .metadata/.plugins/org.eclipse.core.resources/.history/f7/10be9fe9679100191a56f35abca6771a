@@ -1,0 +1,5 @@
+package rc.bootsecurity.db;
+
+public interface UserRepository {
+
+}
